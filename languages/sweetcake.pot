@@ -1,0 +1,127 @@
+# Copyright (C) 2016 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sweetcake\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2019-11-27 12:56+0100\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html__;_n_noop;esc_attr__;"
+"esc_html_x;_nx;_n\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:11
+msgid "That page can not be found"
+msgstr ""
+
+#: archive.php:14
+msgid "Category"
+msgstr ""
+
+#: archive.php:18
+msgid "Tag"
+msgstr ""
+
+#: archive.php:22
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:26
+msgid "Author"
+msgstr ""
+
+#: archive.php:30 functions.php:119 search.php:13
+msgid "Search for"
+msgstr ""
+
+#: archive.php:34
+msgid "Archive"
+msgstr ""
+
+#: archive.php:107 search.php:88
+msgid " - Video"
+msgstr ""
+
+#: archive.php:119 search.php:100
+msgid "AUTHOR"
+msgstr ""
+
+#: archive.php:128 search.php:109
+msgid "COMMENTS"
+msgstr ""
+
+#: archive.php:128 comments.php:8 search.php:109
+msgid "No Comments"
+msgstr ""
+
+#: archive.php:128 comments.php:8 search.php:109
+msgid "One Comment"
+msgstr ""
+
+#: archive.php:128 comments.php:8 search.php:109
+msgid "% Comments"
+msgstr ""
+
+#: archive.php:142 search.php:123
+msgid "READ MORE"
+msgstr ""
+
+#: archive.php:167 search.php:158
+msgid "Prev"
+msgstr ""
+
+#: archive.php:168 search.php:159
+msgid "Next"
+msgstr ""
+
+#: archive.php:169 search.php:160
+msgid "Page"
+msgstr ""
+
+#: functions.php:10
+msgid "Main Menu"
+msgstr ""
+
+#: functions.php:36
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:85
+msgid "Logo"
+msgstr ""
+
+#: functions.php:120
+msgid "Keyword"
+msgstr ""
+
+#: functions.php:121
+msgid "Search"
+msgstr ""
+
+#: page.php:63 single.php:69
+msgid "Next page"
+msgstr ""
+
+#: page.php:64 single.php:70
+msgid "Previous page"
+msgstr ""
+
+#: page.php:74 single.php:80
+msgid "Tags : "
+msgstr ""
+
+#: search.php:146
+msgid "NOTHING FOUND: Search again"
+msgstr ""
+
+#: single.php:91
+msgid "Categories : "
+msgstr ""
